@@ -86,8 +86,8 @@ The idea that AI will continue to grow smarter and technology will keep evolving
 ---
 
 ## 📊 GitHub Stats  
-![](![EmreeKucuk's Stats](https://github-readme-stats.vercel.app/api?username=EmreeKucuk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))  
-![](![EmreeKucuk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmreeKucuk&theme=vue-dark&hide_border=true))
+(![EmreeKucuk's Stats](https://github-readme-stats.vercel.app/api?username=EmreeKucuk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))  
+(![EmreeKucuk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmreeKucuk&theme=vue-dark&hide_border=true))
 ![EmreeKucuk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreeKucuk&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 
